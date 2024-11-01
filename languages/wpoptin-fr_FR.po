@@ -1,0 +1,1511 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPOptin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-03 10:19+0000\n"
+"PO-Revision-Date: 2024-01-04 11:37+0000\n"
+"Last-Translator: \n"
+"Language-Team: French (France)\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.2\n"
+"X-Domain: wpoptin"
+
+#: admin/views/html-triggers-conditions-tab.php:315
+msgid " % from top"
+msgstr "% par rapport au début"
+
+#: admin/views/html-triggers-conditions-tab.php:341
+msgid " Selector"
+msgstr "Sélecteur"
+
+#: admin/views/html-accounts-tab.php:120
+msgid "--Select One--"
+msgstr "-- sélectionner un --"
+
+#: admin/views/html-accounts-tab.php:99
+#: admin/views/html-admin-page-accounts.php:107
+msgid "--Select one--"
+msgstr "-- sélectionner un --"
+
+#: admin/modules-forms/custom.php:272 admin/modules-forms/offer_bar.php:245
+#: admin/modules-forms/optin.php:220
+msgid "4"
+msgstr "4"
+
+#: admin/views/html-admin-notices.php:31 admin/views/html-admin-notices.php:175
+#: admin/views/html-admin-notices.php:315
+msgid "5-star"
+msgstr "5 étoiles"
+
+#: admin/views/html-admin-page-new.php:337
+#: admin/views/html-admin-page-wpoptins.php:731
+msgid ""
+"A full site screen take over with your selected goal which can’t be ignored."
+msgstr ""
+"Un écran plein site prend le relais avec votre objectif sélectionné qui ne "
+"peut être ignoré."
+
+#: admin/views/html-admin-page-new.php:292
+#: admin/views/html-admin-page-wpoptins.php:687
+msgid ""
+"A pop up or modal window in the center of your site. Very popular and very "
+"effective."
+msgstr ""
+"Une fenêtre pop up ou modale au centre de votre site. Très populaire et très "
+"efficace."
+
+#: admin/views/html-admin-page-new.php:270
+#: admin/views/html-admin-page-wpoptins.php:665
+msgid "A scrolling bar at the top of your site to increase conversion."
+msgstr ""
+"Une barre de défilement en haut de votre site pour augmenter la conversion."
+
+#: admin/views/html-admin-page-wpoptins.php:259
+#: admin/views/html-admin-page-wpoptins.php:269
+msgid "A/B Testing"
+msgstr "Essais A/B"
+
+#: admin/views/html-admin-page-wpoptins.php:203
+#: admin/views/html-admin-page-wpoptins.php:432
+msgid "Account Deleted"
+msgstr "Compte supprimé"
+
+#: admin/views/html-accounts-tab.php:186 admin/views/html-accounts-tab.php:222
+#: admin/views/html-admin-page-accounts.php:163
+#: admin/views/html-admin-page-accounts.php:196
+msgid "Account name"
+msgstr "Nom du compte"
+
+#: admin/views/html-admin-page-new.php:90
+#: admin/views/html-admin-page-overview.php:241
+#: admin/views/html-admin-page-wpoptins.php:25
+msgid "Accounts"
+msgstr "Comptes"
+
+#: admin/views/html-admin-page-accounts.php:52
+#: admin/views/html-admin-page-wpoptins.php:93
+msgid "Actions"
+msgstr "Mesures à prendre"
+
+#: admin/views/html-admin-page-overview.php:308
+msgid "Active"
+msgstr "En activité"
+
+#: admin/views/html-admin-page-wpoptins.php:402
+msgid "active"
+msgstr "En activité"
+
+#: admin/views/html-triggers-conditions-tab.php:345
+msgid ""
+"Add \n"
+"                         <b>.\n"
+"                    </b> for class \n"
+"                  <b>#\n"
+"                  </b> for ID of element. For example: <b>.wpoptin</b> <b>"
+"#wpoptin</b>"
+msgstr ""
+"Ajouter <b>C'est vrai. </b>Pour la classe <b>\"C'est quoi, ça?\" </b>Pour Id "
+"d'élément. Par exemple: <b>.Wpoptin </b> <b>#Wpoptin </b>"
+
+#: admin/views/html-triggers-conditions-tab.php:369
+msgid ""
+"Add \n"
+"                   <b>.\n"
+"              </b> for class \n"
+"            <b>#\n"
+"            </b> for ID of element. For example: <b>.wpoptin</b> or <b>"
+"#wpoptin</b>"
+msgstr ""
+"Ajouter <b>C'est vrai. </b>Pour la classe <b>\"C'est quoi, ça?\" </b>Pour Id "
+"d'élément. Par exemple: <b>.Wpoptin </b>Ou bien <b>#Wpoptin </b>"
+
+#: admin/views/html-accounts-tab.php:104
+msgid "Add account"
+msgstr "Ajouter un compte"
+
+#: admin/views/html-admin-page-accounts.php:30
+#: admin/views/html-admin-page-overview.php:248
+#: admin/views/html-admin-page-wpoptins.php:41
+msgid "Add New"
+msgstr "Ajouter un nouveau"
+
+#: admin/views/html-triggers-conditions-tab.php:280
+#: admin/views/html-triggers-conditions-tab.php:309
+msgid "After"
+msgstr "Après"
+
+#: admin/views/html-triggers-conditions-tab.php:328
+msgid "After any selector"
+msgstr "Après n'importe quel sélecteur"
+
+#: admin/views/html-triggers-conditions-tab.php:272
+msgid "After some seconds."
+msgstr "Après quelques secondes."
+
+#: frontend/class-wpoptins-frontend.php:555
+msgid "Already subscribed"
+msgstr "Déjà souscrit"
+
+#: admin/views/html-admin-page-new.php:315
+msgid ""
+"Alternative to PopUp and less distracting but still highly converting slide "
+"in box in the corner of your site."
+msgstr ""
+"Alternative à Popup et moins distrayant mais toujours très convertir la "
+"diapositive dans la boîte dans le coin de votre site."
+
+#: admin/views/html-admin-page-wpoptins.php:709
+msgid ""
+"Alternative to PopUp and less distracting but still highly converting slide "
+"in box in the corner of your site.."
+msgstr ""
+"Alternative à Popup et moins distrayant mais toujours très convertir la "
+"diapositive dans la boîte dans le coin de votre site.."
+
+#: admin/views/html-admin-page-accounts.php:25
+#: admin/views/html-admin-page-wpoptins.php:34
+msgid "Analytics"
+msgstr "Analyse"
+
+#: admin/views/html-admin-page-new.php:197
+#: admin/views/html-admin-page-wpoptins.php:114
+#: admin/views/html-admin-page-wpoptins.php:364
+#: admin/views/html-admin-page-wpoptins.php:595
+msgid "Announcement"
+msgstr "Avis"
+
+#: admin/views/html-accounts-tab.php:204
+#: admin/views/html-admin-page-accounts.php:179
+msgid "Api key"
+msgstr "Clé Api"
+
+#: admin/views/html-accounts-tab.php:138 admin/views/html-accounts-tab.php:164
+#: admin/views/html-accounts-tab.php:174 admin/views/html-accounts-tab.php:210
+#: admin/views/html-accounts-tab.php:228
+#: admin/views/html-admin-page-accounts.php:122
+#: admin/views/html-admin-page-accounts.php:143
+#: admin/views/html-admin-page-accounts.php:152
+#: admin/views/html-admin-page-accounts.php:185
+#: admin/views/html-admin-page-accounts.php:202
+msgid "Authenticate"
+msgstr "Authentifier"
+
+#: admin/modules-forms/custom.php:340 admin/modules-forms/custom.php:348
+#: admin/modules-forms/offer_bar.php:314 admin/modules-forms/offer_bar.php:322
+#: admin/modules-forms/optin.php:289 admin/modules-forms/optin.php:297
+msgid "Auto deactivate when time ends"
+msgstr "Désactiver automatiquement lorsque le temps se termine"
+
+#: admin/views/html-admin-notices.php:27
+msgid "Awesome, you have been using"
+msgstr "Génial, vous avez utilisé"
+
+#: admin/class-wpoptins-customizer.php:581
+msgid "Background Horizontal Pos."
+msgstr "Contexte horizontal Pos."
+
+#: admin/class-wpoptins-customizer.php:549
+#: admin/class-wpoptins-customizer.php:617
+msgid "Background Image"
+msgstr "Image de fond"
+
+#: admin/class-wpoptins-customizer.php:600
+msgid "Background Vertical Pos."
+msgstr "Contexte vertical Pos."
+
+#: admin/views/html-admin-page-new.php:267
+#: admin/views/html-admin-page-wpoptins.php:662
+msgid "Bar"
+msgstr "Barre"
+
+#: admin/class-wpoptins-customizer.php:380
+#: admin/class-wpoptins-customizer.php:509
+#: admin/class-wpoptins-customizer.php:727
+msgid "Border size"
+msgstr "Taille de la frontière"
+
+#: admin/class-wpoptins-customizer.php:354
+#: admin/class-wpoptins-customizer.php:840
+msgid "Border style"
+msgstr "Style de bordure"
+
+#: admin/class-wpoptins-customizer.php:210
+msgid "Bottom"
+msgstr "En bas"
+
+#: admin/class-wpoptins-customizer.php:794
+msgid "Bottom border size"
+msgstr "Taille de la bordure inférieure"
+
+#: admin/class-wpoptins-customizer.php:187
+#: admin/wpoptins-customizer-extend.php:174
+msgid "Bottom Center"
+msgstr "Centre inférieur"
+
+#: admin/class-wpoptins-customizer.php:410
+msgid "Button"
+msgstr "Bouton"
+
+#: admin/modules-forms/custom.php:115 admin/modules-forms/offer_bar.php:73
+#: admin/modules-forms/phone_calls.php:36
+msgid "Button Label"
+msgstr "Étiquette du bouton"
+
+#: admin/modules-forms/optin.php:93
+msgid "Button label"
+msgstr "Étiquette du bouton"
+
+#: admin/modules-forms/custom.php:123 admin/modules-forms/offer_bar.php:82
+msgid "Button URL"
+msgstr "Bouton Url"
+
+#: admin/modules-forms/offer_bar.php:20
+msgid "Buy Now"
+msgstr "Acheter maintenant"
+
+#: admin/modules-forms/phone_calls.php:15
+msgid "Call Now"
+msgstr "Appelez tout de suite."
+
+#: admin/views/html-admin-notices.php:172
+msgid "campaign"
+msgstr "Campagne"
+
+#: admin/views/html-content-tab.php:43
+msgid "Campaign name for your own reference (optional)"
+msgstr "Nom de la campagne pour votre propre référence (facultatif)"
+
+#: admin/views/html-triggers-conditions-tab.php:512
+msgid "Categories"
+msgstr "Catégories"
+
+#: admin/class-wpoptins-customizer.php:143
+msgid "Change positions."
+msgstr "Changer de position."
+
+#: admin/views/html-accounts-tab.php:253
+#: admin/views/html-admin-page-accounts.php:229
+#: admin/views/html-content-tab.php:76
+#: admin/views/html-triggers-conditions-tab.php:798
+msgid "Check this out"
+msgstr "Regarde ça."
+
+#: admin/views/html-admin-page-new.php:258
+msgid "Choose Type"
+msgstr "Choisir le type"
+
+#: admin/views/html-admin-page-wpoptins.php:653
+msgid "Choose type"
+msgstr "Choisir le type"
+
+#: admin/views/html-triggers-conditions-tab.php:195
+msgid ""
+"Chose the right trigger at the right time to grab the attention of your "
+"visitors."
+msgstr ""
+"Choisissez le bon déclencheur au bon moment pour attirer l'attention de vos "
+"visiteurs."
+
+#: admin/views/html-admin-page-new.php:137
+#: admin/views/html-admin-page-wpoptins.php:110
+#: admin/views/html-admin-page-wpoptins.php:360
+#: admin/views/html-admin-page-wpoptins.php:539
+msgid "Collect emails"
+msgstr "Recueillir des courriels"
+
+#: admin/views/html-triggers-conditions-tab.php:590
+msgid "Conditions"
+msgstr "Conditions générales"
+
+#: admin/views/html-admin-notices.php:310
+msgid "Congratulations on"
+msgstr "Félicitations pour"
+
+#: admin/views/html-admin-page-wpoptins.php:519
+msgid ""
+"Congratulations! You’ve successfully installed WPoptin, hands-down the "
+"easiest and simplest to use email opt-in, leads generation and promotions "
+"WordPress plugin with offer bar (the scroll bar at top of your site)."
+msgstr ""
+"Félicitations! Vous avez installé avec succès Wpoptin, Hands-Down le plus "
+"simple et le plus simple à utiliser Email Opt-In, génération de leds et "
+"promotions Plugin Wordpress avec la barre d'offre (la barre de défilement en "
+"haut de votre site)."
+
+#: admin/class-wpoptins-customizer.php:532
+#: admin/modules-forms/announcement.php:21 admin/modules-forms/offer_bar.php:65
+#: admin/modules-forms/optin.php:76 admin/modules-forms/phone_calls.php:28
+#: admin/modules-forms/social_traffic.php:30
+#: admin/views/html-admin-page-new.php:97
+msgid "Content"
+msgstr "Contenu"
+
+#: admin/views/html-admin-page-wpoptins.php:68
+#: admin/views/html-admin-page-wpoptins.php:71
+msgid "Conversion(s)"
+msgstr "Conversion (s)"
+
+#: admin/views/html-admin-notices.php:312
+msgid "conversions using WPOptin"
+msgstr "Conversions utilisant Wpoptin"
+
+#: admin/views/html-admin-page-wpoptins.php:522
+msgid "Cool? Let's start the business!"
+msgstr "C'est cool? Commençons l'affaire!"
+
+#: admin/views/html-admin-notices.php:174
+#: admin/views/html-admin-notices.php:314
+msgid "Could you please do me a BIG favor and give it a "
+msgstr "Pourriez-vous me faire une grande faveur et lui donner un"
+
+#: admin/modules-forms/phone_calls.php:67
+msgid "Country"
+msgstr "Pays"
+
+#: admin/class-wpoptins-customizer.php:296
+msgid "Coupon"
+msgstr "Taux"
+
+#: admin/modules-forms/custom.php:163 admin/modules-forms/offer_bar.php:123
+msgid "Coupon code"
+msgstr "Code du coupon"
+
+#: admin/modules-forms/social_traffic.php:65
+#: admin/views/html-admin-page-new.php:238
+#: admin/views/html-admin-page-wpoptins.php:122
+#: admin/views/html-admin-page-wpoptins.php:372
+#: admin/views/html-admin-page-wpoptins.php:633
+msgid "Custom"
+msgstr "Personnalisé"
+
+#: admin/views/html-design-tab.php:95
+msgid "Customize"
+msgstr "Personnaliser"
+
+#: admin/class-wpoptins-customizer.php:411
+msgid "Customize button in real time"
+msgstr "Personnaliser le bouton en temps réel"
+
+#: admin/class-wpoptins-customizer.php:533
+msgid "Customize content in real time"
+msgstr "Personnaliser le contenu en temps réel"
+
+#: admin/class-wpoptins-customizer.php:297
+msgid "Customize coupon in real time"
+msgstr "Personnaliser le coupon en temps réel"
+
+#: admin/class-wpoptins-customizer.php:667
+msgid "Customize Form in real time"
+msgstr "Personnaliser le formulaire en temps réel"
+
+#: admin/class-wpoptins-customizer.php:252
+msgid "Customize timer in real time"
+msgstr "Personnalisez la minuterie en temps réel"
+
+#: frontend/class-wpoptins-frontend.php:115
+msgid "Day"
+msgstr "Jour"
+
+#: admin/modules-forms/custom.php:285 admin/modules-forms/custom.php:294
+#: admin/modules-forms/offer_bar.php:258 admin/modules-forms/offer_bar.php:267
+#: admin/modules-forms/optin.php:233 admin/modules-forms/optin.php:242
+msgid "Day(s)"
+msgstr "Jour(s)"
+
+#: admin/views/html-admin-page-wpoptins.php:313
+#: admin/views/html-admin-page-wpoptins.php:491
+msgid "Delete"
+msgstr "Supprimer"
+
+#: admin/views/html-admin-page-new.php:112
+msgid "Design"
+msgstr "Conception"
+
+#: admin/views/html-triggers-conditions-tab.php:686
+msgid "Device Status"
+msgstr "Statut du périphérique"
+
+#: admin/views/html-admin-notices.php:50 admin/views/html-admin-notices.php:190
+#: admin/views/html-admin-notices.php:330
+msgid "Dismiss"
+msgstr "Rejeter"
+
+#: admin/views/html-triggers-conditions-tab.php:385
+msgid "Display"
+msgstr "Afficher"
+
+#: admin/views/html-admin-page-new.php:159
+#: admin/views/html-admin-page-wpoptins.php:561
+msgid ""
+"Display call now button to get calls/leads by 10x than usual call now button."
+msgstr ""
+"Afficher le bouton Appeler maintenant pour obtenir des appels/prospects 10 "
+"fois plus que le bouton Appeler maintenant habituel."
+
+#: admin/views/html-admin-page-new.php:200
+#: admin/views/html-admin-page-wpoptins.php:598
+msgid "Display important announcements and latest news."
+msgstr "Affichez les annonces importantes et les dernières nouvelles."
+
+#: admin/views/html-triggers-conditions-tab.php:518
+msgid "Display on following categories"
+msgstr "Afficher sur les catégories suivantes"
+
+#: admin/views/html-triggers-conditions-tab.php:437
+msgid "Display on following pages"
+msgstr "Afficher sur les pages suivantes"
+
+#: admin/views/html-triggers-conditions-tab.php:478
+msgid "Display on following posts"
+msgstr "Afficher sur les articles suivants"
+
+#: admin/views/html-triggers-conditions-tab.php:557
+msgid "Display on following tags"
+msgstr "Afficher sur les balises suivantes"
+
+#: admin/views/html-admin-page-new.php:140
+#: admin/views/html-admin-page-wpoptins.php:542
+msgid ""
+"Display optin form to collect emails to grow your subscribers list by 10x."
+msgstr ""
+"Affichez le formulaire d'inscription pour collecter des e-mails afin de "
+"multiplier par 10 votre liste d'abonnés."
+
+#: admin/views/html-triggers-conditions-tab.php:528
+msgid "Do not display on following categories"
+msgstr "Ne pas afficher sur les catégories suivantes"
+
+#: admin/views/html-triggers-conditions-tab.php:448
+msgid "Do not display on following pages"
+msgstr "Ne pas afficher sur les pages suivantes"
+
+#: admin/views/html-triggers-conditions-tab.php:488
+msgid "Do not display on following posts"
+msgstr "Ne pas afficher sur les publications suivantes"
+
+#: admin/views/html-triggers-conditions-tab.php:568
+msgid "Do not display on following tags"
+msgstr "Ne pas afficher sur les balises suivantes"
+
+#: admin/views/html-admin-page-wpoptins.php:301
+#: admin/views/html-admin-page-wpoptins.php:481
+msgid "Edit"
+msgstr "Modifier"
+
+#: frontend/class-wpoptins-frontend.php:120
+msgid "Email field is required"
+msgstr "Le champ email est obligatoire"
+
+#: admin/modules-forms/optin.php:85
+msgid "Email field label"
+msgstr "Libellé du champ de courrier électronique"
+
+#: admin/modules-forms/custom.php:106
+msgid "Enable button"
+msgstr "Bouton Activer"
+
+#: admin/modules-forms/custom.php:67
+msgid "Enable content"
+msgstr "Autoriser le contenu"
+
+#: admin/modules-forms/custom.php:133 admin/modules-forms/custom.php:141
+#: admin/modules-forms/offer_bar.php:93 admin/modules-forms/offer_bar.php:101
+msgid "Enable coupon"
+msgstr "Activer le coupon"
+
+#: admin/modules-forms/custom.php:91
+msgid "Enable shortcode & HTML support"
+msgstr "Activer la prise en charge du shortcode et du HTML"
+
+#: admin/modules-forms/custom.php:175 admin/modules-forms/custom.php:183
+#: admin/modules-forms/offer_bar.php:135 admin/modules-forms/offer_bar.php:143
+#: admin/modules-forms/optin.php:123 admin/modules-forms/optin.php:131
+msgid "Enable timer"
+msgstr "Activer la minuterie"
+
+#: admin/modules-forms/custom.php:201 admin/modules-forms/custom.php:210
+#: admin/modules-forms/offer_bar.php:161 admin/modules-forms/offer_bar.php:170
+#: admin/modules-forms/optin.php:149 admin/modules-forms/optin.php:158
+msgid "Enable timer title"
+msgstr "Activer le titre du minuteur"
+
+#: frontend/class-wpoptins-frontend.php:190 admin/modules-forms/optin.php:20
+msgid "Enter your email address"
+msgstr "Entrez votre adresse email"
+
+#: admin/modules-forms/optin.php:112
+msgid "Error Message"
+msgstr "Message d'erreur"
+
+#: admin/modules-forms/social_traffic.php:77
+msgid "Example"
+msgstr "Example"
+
+#: admin/modules-forms/social_traffic.php:67
+msgid "Facebook like button"
+msgstr "Facebook like button"
+
+#: admin/modules-forms/social_traffic.php:66
+msgid "Facebook likebox"
+msgstr "Boîte à likes Facebook"
+
+#: admin/views/html-accounts-tab.php:247
+#: admin/views/html-admin-page-accounts.php:225
+#: admin/views/html-content-tab.php:70
+#: admin/views/html-triggers-conditions-tab.php:792
+msgid "Feeling Lost?"
+msgstr "Se sentir perdu?"
+
+#: admin/modules-forms/announcement.php:14
+msgid "Flash Sale: 20% Off Sitewide, Enter Code: 20savings on Checkout!"
+msgstr ""
+"Vente flash : 20 % de réduction sur tout le site, entrez le code : 20 "
+"économies à la caisse !"
+
+#: admin/views/html-admin-notices.php:28
+msgid "for more than 1 week."
+msgstr "pendant plus d'une semaine."
+
+#: admin/class-wpoptins-customizer.php:666
+msgid "Form"
+msgstr "Formulaire"
+
+#: admin/views/html-admin-page-new.php:222
+#: admin/views/html-admin-page-wpoptins.php:618
+msgid ""
+"Get 10x more likes for site page or Facebook fan page by displaying the "
+"Facebook like button."
+msgstr ""
+"Obtenez 10 fois plus de likes pour la page du site ou la page fan Facebook "
+"en affichant le bouton J'aime de Facebook."
+
+#: admin/views/html-admin-page-new.php:156
+#: admin/views/html-admin-page-wpoptins.php:558
+msgid "Get Phone Calls"
+msgstr "Recevoir des appels téléphoniques"
+
+#: admin/views/html-admin-page-overview.php:386
+msgid "Graphical Representation"
+msgstr "Représentation graphique"
+
+#: admin/views/html-admin-notices.php:171
+msgid "Hey, I noticed you created"
+msgstr "Hé, j'ai remarqué que tu avais créé"
+
+#: admin/views/html-triggers-conditions-tab.php:415
+msgid "Home or front page"
+msgstr "Page d'accueil ou page d'accueil"
+
+#: frontend/class-wpoptins-frontend.php:117
+msgid "Hour"
+msgstr "Heure"
+
+#: admin/modules-forms/custom.php:284 admin/modules-forms/custom.php:293
+#: admin/modules-forms/offer_bar.php:257 admin/modules-forms/offer_bar.php:266
+#: admin/modules-forms/optin.php:232 admin/modules-forms/optin.php:241
+msgid "Hour(s)"
+msgstr "Heure(s)"
+
+#. Author URI of the plugin
+msgid "https://maltathemes.com/"
+msgstr "https://maltathemes.com/"
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/wpoptin"
+msgstr "https://wordpress.org/plugins/wpoptin"
+
+#: admin/modules-forms/custom.php:58 admin/modules-forms/custom.php:229
+#: admin/modules-forms/offer_bar.php:58 admin/modules-forms/offer_bar.php:189
+#: admin/modules-forms/optin.php:68 admin/modules-forms/optin.php:177
+msgid "Hurry Up"
+msgstr "Dépêche-toi"
+
+#: admin/views/html-admin-notices.php:46 admin/views/html-admin-notices.php:187
+#: admin/views/html-admin-notices.php:327
+msgid "I already rated it"
+msgstr "je l'ai déjà noté"
+
+#: admin/modules-forms/announcement.php:38 admin/modules-forms/custom.php:371
+#: admin/modules-forms/offer_bar.php:365 admin/modules-forms/optin.php:344
+#: admin/modules-forms/phone_calls.php:93
+#: admin/modules-forms/social_traffic.php:100
+msgid "Image"
+msgstr "l'image"
+
+#: admin/views/html-triggers-conditions-tab.php:259
+msgid "Immediately"
+msgstr "Immédiatement"
+
+#: frontend/class-wpoptins-frontend.php:698
+#: frontend/class-wpoptins-frontend.php:736
+#: frontend/class-wpoptins-frontend.php:767
+msgid "In Customizer"
+msgstr "Dans le personnalisateur"
+
+#: admin/views/html-accounts-tab.php:47
+msgid "Integrate service provider"
+msgstr "Intégrer un fournisseur de services"
+
+#: admin/views/html-triggers-conditions-tab.php:451
+#: admin/views/html-triggers-conditions-tab.php:491
+#: admin/views/html-triggers-conditions-tab.php:531
+#: admin/views/html-triggers-conditions-tab.php:571
+msgid "It will override above condition"
+msgstr "Il remplacera la condition ci-dessus"
+
+#: admin/modules-forms/optin.php:15
+msgid "Join our mailing list to stay up to date on our upcoming events"
+msgstr ""
+"Rejoignez notre liste de diffusion pour rester informé de nos événements à "
+"venir"
+
+#: admin/class-wpoptins-customizer.php:183
+#: admin/wpoptins-customizer-extend.php:140
+msgid "Left"
+msgstr "Gauche"
+
+#: admin/class-wpoptins-customizer.php:809
+msgid "Left border size"
+msgstr "Taille de la bordure gauche"
+
+#: admin/class-wpoptins-customizer.php:184
+msgid "Left Center"
+msgstr "Centre gauche"
+
+#: admin/views/html-admin-page-wpoptins.php:516
+msgid "Let’s get you subscribers, leads and engage the visitors with style"
+msgstr ""
+"Attirons des abonnés, des prospects et engageons les visiteurs avec style"
+
+#: admin/views/html-admin-page-new.php:289
+#: admin/views/html-admin-page-wpoptins.php:684
+msgid "Lightbox popup"
+msgstr "Fenêtre contextuelle Lightbox"
+
+#: admin/modules-forms/social_traffic.php:41
+#: admin/modules-forms/social_traffic.php:50
+msgid "Like the URL my visitor is on"
+msgstr "Comme l'URL sur laquelle se trouve mon visiteur"
+
+#: admin/modules-forms/social_traffic.php:15
+msgid "Like us on Facebook!"
+msgstr "Aimez-nous sur facebook!"
+
+#: admin/modules-forms/custom.php:243 admin/modules-forms/custom.php:252
+#: admin/modules-forms/offer_bar.php:203 admin/modules-forms/offer_bar.php:212
+#: admin/modules-forms/optin.php:191 admin/modules-forms/optin.php:200
+msgid "Loop the timer for selected time duration"
+msgstr "Bouclez la minuterie pour la durée sélectionnée"
+
+#: frontend/class-wpoptins-frontend.php:607
+msgid "MailPoet plugin is not installed or not activated"
+msgstr "Le plugin MailPoet n'est pas installé ou n'est pas activé"
+
+#: admin/views/html-admin-notices.php:30
+msgid "May i ask you to give it a "
+msgstr "Puis-je vous demander de lui donner un"
+
+#: admin/modules-forms/custom.php:283 admin/modules-forms/custom.php:292
+#: admin/modules-forms/offer_bar.php:256 admin/modules-forms/offer_bar.php:265
+#: admin/modules-forms/optin.php:231 admin/modules-forms/optin.php:240
+msgid "Minute(s)"
+msgstr "Minutes"
+
+#: frontend/class-wpoptins-frontend.php:118
+msgid "Minutes"
+msgstr "Minutes"
+
+#: admin/views/html-admin-page-accounts.php:43
+#: admin/views/html-admin-page-wpoptins.php:54
+msgid "Name"
+msgstr "Nom"
+
+#: admin/modules-forms/optin.php:315 admin/modules-forms/optin.php:323
+msgid "Never show if user has already subscribed"
+msgstr "Ne jamais afficher si l'utilisateur est déjà abonné"
+
+#: admin/class-wpoptins-accounts.php:306
+msgid "No wpoptins accounts found."
+msgstr "Aucun compte wpoptins trouvé."
+
+#: admin/class-wpoptins.php:449
+msgid "No WPOptins found."
+msgstr "Aucun WPOptin trouvé."
+
+#: admin/class-wpoptins-skins.php:120
+msgid "No WPOptins skins found."
+msgstr "Aucun skin WPOptins trouvé."
+
+#: admin/views/html-admin-page-wpoptins.php:404
+msgid "not active"
+msgstr "pas actif"
+
+#: admin/views/html-admin-page-wpoptins.php:182
+#: admin/views/html-admin-page-wpoptins.php:184
+msgid "Not available in your plan"
+msgstr "Non disponible dans votre forfait"
+
+#: admin/views/html-triggers-conditions-tab.php:765
+msgid "Not on mobile devices"
+msgstr "Pas sur les appareils mobiles"
+
+#: admin/views/html-admin-page-wpoptins.php:636
+msgid ""
+"Not sure? Use our custom module according to your requirements and "
+"imagination."
+msgstr ""
+"Pas certain? Utilisez notre module personnalisé selon vos exigences et votre "
+"imagination."
+
+#: admin/views/html-admin-page-new.php:241
+msgid ""
+"Not sure? Use our custom module according to your requirements and "
+"imagination. "
+msgstr ""
+"Pas certain? Utilisez notre module personnalisé selon vos exigences et votre "
+"imagination."
+
+#: admin/views/html-triggers-conditions-tab.php:302
+msgid "On scroll"
+msgstr "Au défilement"
+
+#: admin/views/html-triggers-conditions-tab.php:713
+msgid "Only on mobile devices"
+msgstr "Uniquement sur les appareils mobiles"
+
+#: admin/class-wpoptins-customizer.php:565
+msgid "Overlay color"
+msgstr "Couleur de superposition"
+
+#: admin/views/html-admin-page-overview.php:257
+msgid "Overview"
+msgstr "Aperçu"
+
+#: admin/views/html-triggers-conditions-tab.php:431
+msgid "Pages"
+msgstr "Pages"
+
+#: admin/views/html-admin-page-wpoptins.php:81
+#: admin/views/html-admin-page-wpoptins.php:84
+msgid "Percentage"
+msgstr "Pourcentage"
+
+#: admin/views/html-admin-page-wpoptins.php:106
+#: admin/views/html-admin-page-wpoptins.php:356
+msgid "Phone Calls"
+msgstr "Appels téléphoniques"
+
+#: admin/modules-forms/phone_calls.php:75
+msgid "Phone number"
+msgstr "Numéro de téléphone"
+
+#: admin/class-wpoptins-customizer.php:194
+#: admin/class-wpoptins-customizer.php:215
+#: admin/class-wpoptins-customizer.php:229
+msgid "Position"
+msgstr "Position"
+
+#: admin/class-wpoptins-customizer.php:142
+msgid "Positions & Behaviour"
+msgstr "Postes et comportement"
+
+#: admin/views/html-triggers-conditions-tab.php:472
+msgid "Posts"
+msgstr "Des postes"
+
+#: frontend/class-wpoptins-frontend.php:124
+#: frontend/templates/template-announcement.php:224
+#: frontend/templates/template-announcement.php:245
+#: frontend/templates/template-custom.php:389
+#: frontend/templates/template-custom.php:411
+#: frontend/templates/template-offer-bar.php:392
+#: frontend/templates/template-offer-bar.php:414
+#: frontend/templates/template-optin.php:437
+#: frontend/templates/template-optin.php:458
+#: frontend/templates/template-phone-calls.php:219
+#: frontend/templates/template-phone-calls.php:237
+#: frontend/templates/template-social-traffic.php:370
+#: frontend/templates/template-social-traffic.php:387
+msgid "Powered by WPOptin"
+msgstr "Propulsé par WPOptin"
+
+#: admin/modules-forms/custom.php:94 admin/modules-forms/custom.php:145
+#: admin/modules-forms/custom.php:187 admin/modules-forms/custom.php:213
+#: admin/modules-forms/custom.php:256 admin/modules-forms/custom.php:351
+#: admin/modules-forms/offer_bar.php:105 admin/modules-forms/offer_bar.php:146
+#: admin/modules-forms/offer_bar.php:173 admin/modules-forms/offer_bar.php:219
+#: admin/modules-forms/offer_bar.php:329 admin/modules-forms/optin.php:135
+#: admin/modules-forms/optin.php:161 admin/modules-forms/optin.php:204
+#: admin/modules-forms/optin.php:300 admin/modules-forms/optin.php:326
+#: admin/modules-forms/social_traffic.php:54
+#: admin/views/html-accounts-tab.php:291
+#: admin/views/html-admin-page-accounts.php:244
+#: admin/views/html-admin-page-overview.php:274
+#: admin/views/html-admin-page-wpoptins.php:280
+#: admin/views/html-triggers-conditions-tab.php:636
+#: admin/views/html-triggers-conditions-tab.php:725
+msgid "Premium Feature"
+msgstr "Fonctionnalité Premium"
+
+#: admin/views/html-admin-page-wpoptins.php:73
+#: admin/views/html-admin-page-wpoptins.php:86
+msgid "Pro"
+msgstr "Pro"
+
+#: admin/views/html-admin-page-new.php:179
+#: admin/views/html-admin-page-wpoptins.php:580
+msgid ""
+"Promote the special offers on sales occasions like HalloWeen or New Year by "
+"giving discounts and perks."
+msgstr ""
+"Faites la promotion des offres spéciales lors d'occasions de vente comme "
+"HalloWeen ou le Nouvel An en offrant des réductions et des avantages."
+
+#: admin/views/html-admin-page-new.php:19
+msgid "Publish"
+msgstr "Publier"
+
+#: admin/views/html-admin-notices.php:41 admin/views/html-admin-notices.php:182
+msgid "Rate it now"
+msgstr "Évaluer maintenant"
+
+#: admin/views/html-admin-notices.php:322
+msgid "Rate the plugin"
+msgstr "Évaluez le plugin"
+
+#: admin/views/html-admin-notices.php:175
+#: admin/views/html-admin-notices.php:315
+msgid ""
+"rating on WordPress to help us spread the word and boost our motivation?"
+msgstr ""
+"une note sur WordPress pour nous aider à faire passer le message et booster "
+"notre motivation ?"
+
+#: admin/views/html-admin-notices.php:31
+msgid "rating on Wordpress?"
+msgstr "une note sur Wordpress ?"
+
+#: admin/views/html-admin-page-accounts.php:73
+msgid "Remove"
+msgstr "Retirer"
+
+#: admin/modules-forms/announcement.php:34 admin/modules-forms/custom.php:367
+#: admin/modules-forms/offer_bar.php:361 admin/modules-forms/optin.php:340
+#: admin/modules-forms/phone_calls.php:89
+#: admin/modules-forms/social_traffic.php:96
+msgid "Remove Image"
+msgstr "Supprimer l'image"
+
+#: admin/class-wpoptins-customizer.php:185
+#: admin/wpoptins-customizer-extend.php:157
+msgid "Right"
+msgstr "Droit"
+
+#: admin/class-wpoptins-customizer.php:824
+msgid "Right border size"
+msgstr "Taille de la bordure droite"
+
+#: admin/class-wpoptins-customizer.php:186
+msgid "Right Center"
+msgstr "Centre droit"
+
+#. Author of the plugin
+msgid "Sajid Javed"
+msgstr "Sajid Javed"
+
+#: admin/views/html-admin-page-new.php:176
+#: admin/views/html-admin-page-wpoptins.php:577
+msgid "Sales, promotions and discount offers"
+msgstr "Soldes, promotions et offres de réduction"
+
+#: admin/views/html-admin-page-wpoptins.php:126
+#: admin/views/html-admin-page-wpoptins.php:376
+msgid "Sales, promotions and special offers"
+msgstr "Soldes, promotions et offres spéciales"
+
+#: admin/views/html-accounts-tab.php:272 admin/views/html-content-tab.php:55
+#: admin/views/html-triggers-conditions-tab.php:777
+msgid "Save"
+msgstr "Sauvegarder"
+
+#: admin/views/html-triggers-conditions-tab.php:780
+msgid "Save & Continue"
+msgstr "Enregistrer continuer"
+
+#: admin/views/html-accounts-tab.php:276 admin/views/html-content-tab.php:58
+msgid "Save & continue"
+msgstr "Enregistrer continuer"
+
+#: frontend/class-wpoptins-frontend.php:119
+msgid "Seconds"
+msgstr "Seconds"
+
+#: admin/views/html-triggers-conditions-tab.php:284
+msgid "seconds"
+msgstr "seconds"
+
+#: admin/views/html-admin-page-new.php:146
+#: admin/views/html-admin-page-new.php:165
+#: admin/views/html-admin-page-new.php:185
+#: admin/views/html-admin-page-new.php:206
+#: admin/views/html-admin-page-new.php:228
+#: admin/views/html-admin-page-new.php:248
+#: admin/views/html-admin-page-new.php:277
+#: admin/views/html-admin-page-new.php:300
+#: admin/views/html-admin-page-new.php:322
+#: admin/views/html-admin-page-new.php:344
+#: admin/views/html-admin-page-wpoptins.php:548
+#: admin/views/html-admin-page-wpoptins.php:567
+#: admin/views/html-admin-page-wpoptins.php:586
+#: admin/views/html-admin-page-wpoptins.php:604
+#: admin/views/html-admin-page-wpoptins.php:624
+#: admin/views/html-admin-page-wpoptins.php:643
+#: admin/views/html-admin-page-wpoptins.php:672
+#: admin/views/html-admin-page-wpoptins.php:694
+#: admin/views/html-admin-page-wpoptins.php:716
+#: admin/views/html-admin-page-wpoptins.php:738
+#: admin/views/html-design-tab.php:91
+msgid "Select"
+msgstr "Sélectionner"
+
+#: admin/views/html-accounts-tab.php:97
+msgid "Select account name"
+msgstr "Sélectionnez le nom du compte"
+
+#: admin/views/html-accounts-tab.php:52
+#: admin/views/html-admin-page-accounts.php:105
+msgid "Select email provider"
+msgstr "Sélectionnez le fournisseur de messagerie"
+
+#: admin/wpoptins-customizer-extend.php:104
+msgid "Select image"
+msgstr "Sélectionner une image"
+
+#: admin/views/html-accounts-tab.php:116
+msgid "Select mailing list"
+msgstr "Sélectionnez la liste de diffusion"
+
+#: admin/views/html-accounts-tab.php:55
+msgid "Select one"
+msgstr "Sélectionnez-en un"
+
+#: admin/views/html-design-tab.php:76
+msgid "Selected"
+msgstr "Choisi"
+
+#: admin/views/html-triggers-conditions-tab.php:365
+msgid "Selector"
+msgstr "Sélecteur"
+
+#: admin/views/html-admin-page-accounts.php:46
+msgid "Service provider"
+msgstr "Fournisseur de services"
+
+#: frontend/class-wpoptins-frontend.php:682
+msgid "Service provider not found"
+msgstr "Fournisseur de services introuvable"
+
+#: admin/views/html-triggers-conditions-tab.php:399
+msgid "Show everywhere"
+msgstr "Afficher partout"
+
+#: admin/views/html-triggers-conditions-tab.php:199
+msgid "Show immediately or after some seconds."
+msgstr "Afficher immédiatement ou après quelques secondes."
+
+#: admin/views/html-triggers-conditions-tab.php:237
+msgid "Show on click"
+msgstr "Afficher au clic"
+
+#: admin/views/html-triggers-conditions-tab.php:210
+msgid "Show on scroll or after any selector."
+msgstr "Afficher lors du défilement ou après n'importe quel sélecteur."
+
+#: admin/views/html-triggers-conditions-tab.php:224
+msgid "Show when exit intent detected."
+msgstr "Afficher quand l’intention de sortie est détectée."
+
+#: admin/class-wpoptins-skins.php:99
+msgid "Skin"
+msgstr "Peau"
+
+#: admin/views/html-admin-page-new.php:312
+#: admin/views/html-admin-page-wpoptins.php:706
+msgid "Slide In"
+msgstr "Glisser dedans"
+
+#: admin/views/html-admin-page-new.php:219
+#: admin/views/html-admin-page-wpoptins.php:118
+#: admin/views/html-admin-page-wpoptins.php:368
+#: admin/views/html-admin-page-wpoptins.php:615
+msgid "Social Traffic"
+msgstr "Trafic social"
+
+#: admin/modules-forms/optin.php:36
+msgid "Something went wrong"
+msgstr "Quelque chose s'est mal passé"
+
+#: admin/modules-forms/offer_bar.php:15
+msgid "Special Offer! Get 20% off using coupon code:"
+msgstr "Offre spéciale! Obtenez 20 % de réduction en utilisant le code promo :"
+
+#: admin/views/html-admin-page-wpoptins.php:90
+msgid "Status"
+msgstr "Statut"
+
+#: admin/class-wpoptins-customizer.php:161
+msgid "Sticky Bar"
+msgstr "Barre collante"
+
+#: frontend/class-wpoptins-frontend.php:191
+msgid "Submit"
+msgstr "Soumettre"
+
+#: admin/modules-forms/optin.php:25
+msgid "Subscribe"
+msgstr "S'abonner"
+
+#: admin/views/html-admin-page-accounts.php:49
+msgid "Subscribers"
+msgstr "Les abonnés"
+
+#: frontend/class-wpoptins-frontend.php:121
+msgid "Subscribing..."
+msgstr "S'abonner..."
+
+#: admin/modules-forms/optin.php:103
+msgid "Success Message"
+msgstr "Message de réussite"
+
+#: admin/modules-forms/optin.php:31
+msgid "Successfully subscribed"
+msgstr "Abonné avec succès"
+
+#: admin/views/html-admin-page-new.php:17
+msgid "Switch to draft"
+msgstr "Passer au brouillon"
+
+#: admin/views/html-triggers-conditions-tab.php:551
+msgid "Tags"
+msgstr "Mots clés"
+
+#: admin/modules-forms/custom.php:20
+msgid "Take me there"
+msgstr "Emmène-moi là-bas"
+
+#: admin/modules-forms/phone_calls.php:20
+msgid "Talk to us to find out more"
+msgstr "Parlez-nous pour en savoir plus"
+
+#: admin/views/html-admin-notices.php:172
+#: admin/views/html-admin-notices.php:313
+msgid "that’s awesome!"
+msgstr "c'est génial!"
+
+#: wpoptin.php:188
+msgid ""
+"This is a wpoptin demo page created by plugin automatically. Please don't "
+"delete to make the plugin work properly."
+msgstr ""
+"Il s'agit d'une page de démonstration wpoptin créée automatiquement par le "
+"plugin. Veuillez ne pas supprimer pour que le plugin fonctionne correctement."
+
+#: frontend/class-wpoptins-frontend.php:113
+msgid "This offer has expired!"
+msgstr "Cette offre est expirée !"
+
+#: admin/views/html-admin-notices.php:33
+msgid ""
+"This will help to spread its popularity and to make this plugin a better one."
+msgstr "Cela contribuera à accroître sa popularité et à améliorer ce plugin."
+
+#: admin/modules-forms/custom.php:281 admin/modules-forms/custom.php:290
+#: admin/modules-forms/offer_bar.php:254 admin/modules-forms/offer_bar.php:263
+#: admin/modules-forms/optin.php:229 admin/modules-forms/optin.php:238
+msgid "Time Duration"
+msgstr "Temps Durée"
+
+#: admin/modules-forms/custom.php:275 admin/modules-forms/offer_bar.php:248
+#: admin/modules-forms/optin.php:223
+msgid "Time Unit"
+msgstr "Unité de temps"
+
+#: admin/class-wpoptins-customizer.php:251
+msgid "Timer"
+msgstr "Minuteur"
+
+#: admin/modules-forms/custom.php:312 admin/modules-forms/offer_bar.php:285
+#: admin/modules-forms/optin.php:260
+msgid "Timer end date"
+msgstr "Date de fin du minuteur"
+
+#: admin/modules-forms/custom.php:329 admin/modules-forms/offer_bar.php:302
+#: admin/modules-forms/optin.php:277
+msgid "Timer end time"
+msgstr "Heure de fin du minuteur"
+
+#: admin/modules-forms/custom.php:232 admin/modules-forms/offer_bar.php:192
+#: admin/modules-forms/optin.php:180
+msgid "Timer title"
+msgstr "Titre du minuteur"
+
+#: admin/class-wpoptins-customizer.php:209
+msgid "Top"
+msgstr "Haut"
+
+#: admin/class-wpoptins-customizer.php:778
+msgid "Top border size"
+msgstr "Taille de la bordure supérieure"
+
+#: admin/views/html-admin-page-overview.php:354
+msgid "Total Conversions"
+msgstr "Conversions totales"
+
+#: admin/views/html-admin-page-overview.php:379
+msgid "Total Percentage"
+msgstr "Pourcentage total"
+
+#: admin/views/html-admin-page-overview.php:331
+msgid "Total Views"
+msgstr "Vues totales"
+
+#: admin/views/html-triggers-conditions-tab.php:191
+msgid "Triggers"
+msgstr "Déclencheurs"
+
+#: admin/views/html-admin-page-new.php:104
+msgid "Triggers & Conditions"
+msgstr "Déclencheurs et conditions"
+
+#: admin/views/html-admin-page-wpoptins.php:57
+msgid "Type"
+msgstr "Taper"
+
+#: admin/wpoptins-customizer-extend.php:113
+#: admin/wpoptins-customizer-extend.php:148
+#: admin/wpoptins-customizer-extend.php:164
+#: admin/wpoptins-customizer-extend.php:182
+#: admin/wpoptins-customizer-extend.php:208
+#: admin/modules-forms/offer_bar.php:226 admin/modules-forms/offer_bar.php:336
+#: admin/views/html-accounts-tab.php:298
+#: admin/views/html-admin-page-accounts.php:248
+#: admin/views/html-admin-page-overview.php:281
+#: admin/views/html-admin-page-wpoptins.php:288
+#: admin/views/html-triggers-conditions-tab.php:643
+#: admin/views/html-triggers-conditions-tab.php:732
+msgid "Upgrade to pro"
+msgstr "Passer à Pro"
+
+#: admin/modules-forms/announcement.php:42 admin/modules-forms/custom.php:375
+#: admin/modules-forms/offer_bar.php:369 admin/modules-forms/optin.php:348
+#: admin/modules-forms/phone_calls.php:97
+#: admin/modules-forms/social_traffic.php:104
+msgid "Upload Image"
+msgstr "Télécharger une image"
+
+#: admin/modules-forms/social_traffic.php:82
+msgid "URL to like"
+msgstr "URL à aimer"
+
+#: admin/modules-forms/social_traffic.php:69
+msgid "URL type"
+msgstr "Type d'URL"
+
+#: admin/wpoptins-customizer-extend.php:111
+#: admin/wpoptins-customizer-extend.php:146
+#: admin/wpoptins-customizer-extend.php:162
+#: admin/wpoptins-customizer-extend.php:180
+#: admin/wpoptins-customizer-extend.php:206
+#: admin/views/html-admin-page-accounts.php:247
+msgid "Use following coupon code to get 27% discount for limited time"
+msgstr ""
+"Utilisez le code promo suivant pour obtenir 27 % de réduction pour une durée "
+"limitée"
+
+#: admin/modules-forms/offer_bar.php:222 admin/modules-forms/offer_bar.php:332
+#: admin/views/html-accounts-tab.php:294
+#: admin/views/html-admin-page-overview.php:277
+#: admin/views/html-admin-page-wpoptins.php:283
+#: admin/views/html-triggers-conditions-tab.php:639
+#: admin/views/html-triggers-conditions-tab.php:728
+msgid "Use following coupon to get 27% discount for limited time"
+msgstr ""
+"Utilisez le coupon suivant pour obtenir 27 % de réduction pour une durée "
+"limitée"
+
+#: admin/views/html-accounts-tab.php:195
+#: admin/views/html-admin-page-accounts.php:171
+msgid "User Name"
+msgstr "Nom d'utilisateur"
+
+#: admin/views/html-admin-page-accounts.php:212
+msgid "View All"
+msgstr "Voir tout"
+
+#: admin/views/html-admin-page-wpoptins.php:61
+msgid "View(s)"
+msgstr "Vue(s)"
+
+#: admin/views/html-triggers-conditions-tab.php:624
+msgid "Visitor is logged in"
+msgstr "Le visiteur est connecté"
+
+#: admin/views/html-triggers-conditions-tab.php:678
+msgid "Visitor is not logged in"
+msgstr "Le visiteur n'est pas connecté"
+
+#: admin/views/html-triggers-conditions-tab.php:597
+msgid "Visitor Status"
+msgstr "Statut du visiteur"
+
+#: admin/modules-forms/custom.php:14
+msgid ""
+"Want To Become An Expert In Hosting Webinars? Join Our Free Webinar "
+"Masterclass!"
+msgstr ""
+"Vous voulez devenir un expert en hébergement de webinaires ? Rejoignez notre "
+"masterclass de webinaire gratuite !"
+
+#: admin/views/html-admin-page-wpoptins.php:281
+msgid ""
+"We're sorry, A/B testing is not included in your plan. Please upgrade to the "
+"premium plan to unlock this and all other cool features. Keep increase "
+"conversion by 10x while testing new ideas."
+msgstr ""
+"Nous sommes désolés, les tests A/B ne sont pas inclus dans votre forfait. "
+"Veuillez passer au plan premium pour débloquer cette fonctionnalité ainsi "
+"que toutes les autres fonctionnalités intéressantes. Continuez à multiplier "
+"par 10 la conversion tout en testant de nouvelles idées."
+
+#: admin/views/html-admin-page-overview.php:275
+msgid ""
+"We're sorry, Analytics is not included in your plan. Please upgrade to the "
+"premium plan to unlock this and to make data-driven decisions in order to "
+"increase subscribers and sales by 10x."
+msgstr ""
+"Nous sommes désolés, Analytics n'est pas inclus dans votre forfait. Veuillez "
+"passer au forfait premium pour débloquer cette fonctionnalité et prendre des "
+"décisions basées sur les données afin d'augmenter le nombre d'abonnés et les "
+"ventes de 10 fois."
+
+#: admin/modules-forms/custom.php:351 admin/modules-forms/offer_bar.php:330
+#: admin/modules-forms/optin.php:300
+msgid ""
+"We're sorry, Auto deactivate when time ends is not included in your plan. "
+"Please upgrade to the premium plan to unlock this and all other cool "
+"features."
+msgstr ""
+"Nous sommes désolés, la désactivation automatique à la fin du temps imparti "
+"n'est pas incluse dans votre forfait. Veuillez passer au plan premium pour "
+"débloquer cette fonctionnalité ainsi que toutes les autres fonctionnalités "
+"intéressantes."
+
+#: admin/class-wpoptins-customizer.php:619
+msgid ""
+"We're sorry, Background image, image position and overlay with csutom color "
+"features are not included in your plan. Please upgrade to the premium plan "
+"to unlock this and many more awesome features"
+msgstr ""
+"Nous sommes désolés, l'image d'arrière-plan, la position de l'image et la "
+"superposition avec des fonctionnalités de couleur personnalisées ne sont pas "
+"incluses dans votre plan. Veuillez passer au plan premium pour débloquer "
+"cette fonctionnalité et bien d'autres encore."
+
+#: admin/class-wpoptins-customizer.php:231
+msgid ""
+"We're sorry, Changing position is not included in your plan. Please upgrade "
+"to the premium plan to unlock this and many more awesome features"
+msgstr ""
+"Nous sommes désolés, le changement de poste n'est pas inclus dans votre "
+"forfait. Veuillez passer au plan premium pour débloquer cette fonctionnalité "
+"et bien d'autres encore."
+
+#: admin/modules-forms/custom.php:145 admin/modules-forms/offer_bar.php:105
+msgid ""
+"We're sorry, Coupon code is not included in your plan. Please upgrade to "
+"premium version to unlock this and all other cool features."
+msgstr ""
+"Nous sommes désolés, le code promo n'est pas inclus dans votre forfait. "
+"Veuillez passer à la version premium pour débloquer cette fonctionnalité "
+"ainsi que toutes les autres fonctionnalités intéressantes."
+
+#: admin/views/html-triggers-conditions-tab.php:726
+msgid ""
+"We're sorry, Device Status conditions are not included in your plan. Please "
+"upgrade to the premium plan to unlock this and all other cool features. Keep "
+"increase conversion by 10x while testing new ideas."
+msgstr ""
+"Nous sommes désolés, les conditions relatives à l'état de l'appareil ne sont "
+"pas incluses dans votre forfait. Veuillez passer au plan premium pour "
+"débloquer cette fonctionnalité ainsi que toutes les autres fonctionnalités "
+"intéressantes. Continuez à multiplier par 10 la conversion tout en testant "
+"de nouvelles idées."
+
+#: admin/modules-forms/optin.php:161
+msgid ""
+"We're sorry, Disabling timer title is not included in your plan. Please "
+"upgrade to the premium plan to unlock this and all other cool features. "
+"Perfect way to increase conversion by 10X with count down timer."
+msgstr ""
+"Nous sommes désolés, la désactivation du titre du minuteur n'est pas incluse "
+"dans votre forfait. Veuillez passer au plan premium pour débloquer cette "
+"fonctionnalité ainsi que toutes les autres fonctionnalités intéressantes. Un "
+"moyen idéal pour augmenter la conversion de 10 fois avec un compte à rebours."
+
+#: admin/modules-forms/custom.php:213 admin/modules-forms/offer_bar.php:173
+msgid ""
+"We're sorry, Hiding timer title is not included in your plan. Please upgrade "
+"to the premium plan to unlock this and all other cool features. Perfect way "
+"to increase conversion by 10X with count down timer."
+msgstr ""
+"Nous sommes désolés, le masquage du titre du minuteur n'est pas inclus dans "
+"votre forfait. Veuillez passer au plan premium pour débloquer cette "
+"fonctionnalité ainsi que toutes les autres fonctionnalités intéressantes. Un "
+"moyen idéal pour augmenter la conversion de 10 fois avec un compte à rebours."
+
+#: admin/modules-forms/custom.php:256 admin/modules-forms/offer_bar.php:220
+#: admin/modules-forms/optin.php:204
+msgid ""
+"We're sorry, Loop the timer for selected time duration is not included in "
+"your plan. Please upgrade to the premium plan to unlock this and all other "
+"cool features. Perfect way to increase conversion by 10X with fear not to "
+"miss count down timer."
+msgstr ""
+"Nous sommes désolés, la boucle de la minuterie pour la durée sélectionnée "
+"n'est pas incluse dans votre forfait. Veuillez passer au plan premium pour "
+"débloquer cette fonctionnalité ainsi que toutes les autres fonctionnalités "
+"intéressantes. Un moyen idéal pour augmenter la conversion de 10 fois sans "
+"craindre de ne pas manquer le compte à rebours."
+
+#: admin/views/html-accounts-tab.php:292
+#: admin/views/html-admin-page-accounts.php:245
+msgid ""
+"We're sorry, Mailpoet integration is not included in your plan. Please "
+"upgrade to the premium plan to unlock this and all other cool features. Keep "
+"increase conversion by 10x while testing new ideas."
+msgstr ""
+"Nous sommes désolés, l'intégration de Mailpoet n'est pas incluse dans votre "
+"forfait. Veuillez passer au plan premium pour débloquer cette fonctionnalité "
+"ainsi que toutes les autres fonctionnalités intéressantes. Continuez à "
+"multiplier par 10 la conversion tout en testant de nouvelles idées."
+
+#: admin/modules-forms/optin.php:326
+msgid ""
+"We're sorry, Never show if user has already subscribed is not included in "
+"your plan. Please upgrade to the premium plan to unlock this and all other "
+"cool features."
+msgstr ""
+"Nous sommes désolés, ne jamais afficher si l'utilisateur est déjà abonné "
+"n'est pas inclus dans votre forfait. Veuillez passer au plan premium pour "
+"débloquer cette fonctionnalité ainsi que toutes les autres fonctionnalités "
+"intéressantes."
+
+#: admin/modules-forms/custom.php:94
+msgid ""
+"We're sorry, shortcode & HTML support is not included in your plan. Please "
+"upgrade to premium version to unlock this and all other cool features."
+msgstr ""
+"Nous sommes désolés, la prise en charge des shortcodes et du HTML n'est pas "
+"incluse dans votre forfait. Veuillez passer à la version premium pour "
+"débloquer cette fonctionnalité ainsi que toutes les autres fonctionnalités "
+"intéressantes."
+
+#: admin/modules-forms/social_traffic.php:54
+msgid ""
+"We're sorry, the ability to like current page user is on is not included in "
+"your plan. Please upgrade to premium version to unlock this and all other "
+"cool features."
+msgstr ""
+"Nous sommes désolés, la possibilité d'aimer la page sur laquelle se trouve "
+"l'utilisateur actuel n'est pas incluse dans votre forfait. Veuillez passer à "
+"la version premium pour débloquer cette fonctionnalité ainsi que toutes les "
+"autres fonctionnalités intéressantes."
+
+#: admin/modules-forms/custom.php:187 admin/modules-forms/offer_bar.php:146
+msgid ""
+"We're sorry, Timer is not included in your plan. Please upgrade to the "
+"premium plan to unlock this and all other cool features. Perfect way to "
+"increase conversion by 10X with count down timer."
+msgstr ""
+"Nous sommes désolés, la minuterie n'est pas incluse dans votre forfait. "
+"Veuillez passer au plan premium pour débloquer cette fonctionnalité ainsi "
+"que toutes les autres fonctionnalités intéressantes. Un moyen idéal pour "
+"augmenter la conversion de 10 fois avec un compte à rebours."
+
+#: admin/modules-forms/optin.php:135
+msgid ""
+"We're sorry, Timer is not included in your plan. Please upgrade to the "
+"premium plan to unlock this and all other cool features. Perfect way to "
+"increase leads by 10X with count down timer."
+msgstr ""
+"Nous sommes désolés, la minuterie n'est pas incluse dans votre forfait. "
+"Veuillez passer au plan premium pour débloquer cette fonctionnalité ainsi "
+"que toutes les autres fonctionnalités intéressantes. Un moyen idéal pour "
+"multiplier les leads par 10 avec un compte à rebours."
+
+#: admin/views/html-triggers-conditions-tab.php:637
+msgid ""
+"We're sorry, Visitor Status conditions are not included in your plan. Please "
+"upgrade to the premium plan to unlock this and all other cool features. Keep "
+"increase conversion by 10x while testing new ideas."
+msgstr ""
+"Nous sommes désolés, les conditions du statut de visiteur ne sont pas "
+"incluses dans votre forfait. Veuillez passer au plan premium pour débloquer "
+"cette fonctionnalité ainsi que toutes les autres fonctionnalités "
+"intéressantes. Continuez à multiplier par 10 la conversion tout en testant "
+"de nouvelles idées."
+
+#: frontend/class-wpoptins-frontend.php:116
+msgid "Week"
+msgstr "Semaine"
+
+#: admin/views/html-admin-page-new.php:334
+msgid "Welcome Mat"
+msgstr "Bienvenue mat"
+
+#: admin/views/html-admin-page-wpoptins.php:728
+msgid "Wellcome Matt"
+msgstr "Bienvenue Matt"
+
+#: admin/views/html-admin-page-new.php:130
+#: admin/views/html-admin-page-wpoptins.php:533
+msgid "What’s your goal?"
+msgstr "Quel est ton but?"
+
+#: frontend/class-wpoptins-frontend.php:674
+msgid "Whoops! MailPoet not included in free version"
+msgstr "Oups ! MailPoet non inclus dans la version gratuite"
+
+#. Name of the plugin
+#: admin/class-wpoptins-customizer.php:119
+#: admin/views/html-admin-notices.php:28
+msgid "WPOptin"
+msgstr "WPOptin"
+
+#: admin/modules-forms/custom.php:25 admin/modules-forms/offer_bar.php:25
+msgid "wpoptin"
+msgstr "wpoptin"
+
+#: admin/views/html-admin-page-new.php:83
+msgid "WPoptin Configuration"
+msgstr "Configuration WPoptin"
+
+#. Description of the plugin
+msgid ""
+"WPOptin is used for building emails list, news announcements, flash sales "
+"with coupons and beautiful call to action buttons.With WP Customizer support "
+"to design opt-ins and offers bar live."
+msgstr ""
+"WPOptin est utilisé pour créer une liste de courriers électroniques, des "
+"annonces d'actualités, des ventes flash avec des coupons et de magnifiques "
+"boutons d'appel à l'action. Avec la prise en charge de WP Customizer pour "
+"concevoir des opt-ins et une barre d'offres en direct."
+
+#: admin/views/html-admin-notices.php:35
+msgid "Your help is much appreciated. Thank you very much."
+msgstr "Votre aide est très appréciée. Merci beaucoup."
